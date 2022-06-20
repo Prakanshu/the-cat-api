@@ -1,4 +1,4 @@
-# The project is demonstration of consuming a third party api(The cat api) in the react-app.
+# The project is demonstration of consuming a third party api(the cat api) in the react-app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
